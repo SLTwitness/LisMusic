@@ -1,5 +1,6 @@
 #include <QApplication>
 #include <QQmlApplicationEngine>
+#include <savehisty.h>
 
 int main(int argc, char *argv[])
 {
@@ -19,6 +20,7 @@ int main(int argc, char *argv[])
                 QCoreApplication::exit(-1);
         },
         Qt::QueuedConnection);
+    qmlRegisterType<Savehisty>("savehisty",1,0,"Savehisty");
     engine.load(url);
     qmlRegisterSingletonType(QUrl(QStringLiteral("qrc:/Config/Config.qml")), "Config", 1, 0, "Config");
     return app.exec();

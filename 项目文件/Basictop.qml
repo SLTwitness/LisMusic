@@ -1,5 +1,7 @@
 import QtQuick
 import "qrc:/Method"
+import savehisty 1.0
+import "qrc:/DataBase"
 
 Item{
     Row{

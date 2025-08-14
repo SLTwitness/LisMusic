@@ -4,6 +4,7 @@ import QtQuick.Controls.Material
 import "qrc:/Method"
 import "qrc:/DataBase"
 import Config 1.0
+import savehisty 1.0
 
 Row{
     Rectangle{
@@ -56,6 +57,17 @@ Row{
         }
 
         Keys.onReturnPressed: { //Enter输入功能
+
+            let data=[]
+            for(let i=0;i<modelhistory.count;i++){
+                let getdata=modelhistory.get(i);
+                data.push(
+                            {
+                                historysearch:getdata.historysearch
+                            })
+            }
+            sv.savehis(data)
+
             if(modelhistory.count>1){
                 modelhistory.insert(modelhistory.count-1,{historysearch:searchtxt.text})
                 searchtxt.text=""
@@ -131,6 +143,11 @@ Row{
     SearchData{
         id:modelhistory
     }
+
+    Savehisty{
+        id:sv
+    }
+
     FavorData{
         id:modelguess
     }
@@ -502,6 +519,14 @@ Row{
                     foundsoundrec.color="#F7EFF8"
                 }
             }
+        }
+    }
+
+    Component.onCompleted:{
+        modelhistory.clear()
+        let data=sv.loadhis()
+        for(let i=0;i<data.length;i++){
+            modelhistory.append(data[i]);
         }
     }
 }
