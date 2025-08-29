@@ -1,0 +1,135 @@
+<RCC>
+    <qresource prefix="/Icon"/>
+    <qresource prefix="/Res"/>
+    <qresource prefix="/Resrc">
+        <file>Icon/1.png</file>
+        <file>Icon/2.png</file>
+        <file>Icon/3.png</file>
+        <file>Icon/4.png</file>
+        <file>Icon/5.png</file>
+        <file>Icon/6.png</file>
+        <file>Icon/7.png</file>
+        <file>Icon/8.png</file>
+        <file>Icon/9.png</file>
+        <file>Icon/10.png</file>
+        <file>Icon/11.png</file>
+        <file>Icon/12.png</file>
+        <file>Icon/13.png</file>
+        <file>Icon/14.png</file>
+        <file>log/2.png</file>
+        <file>logo/2.jpg</file>
+        <file>logo/3.jpg</file>
+        <file>log/1.png</file>
+        <file>logo/1.png</file>
+        <file>logo/4.png</file>
+        <file>logo/5.png</file>
+        <file>logo/6.png</file>
+        <file>logo/7.png</file>
+        <file>logo/8.png</file>
+        <file>Icon/15.png</file>
+        <file>Icon/16.png</file>
+        <file>Icon/17.png</file>
+        <file>Icon/18.png</file>
+        <file>Icon/19.png</file>
+        <file>Pic/1.jpg</file>
+        <file>Pic/2.jpg</file>
+        <file>Pic/3.jpg</file>
+        <file>Pic/4.jpg</file>
+        <file>Pic/5.jpg</file>
+        <file>Pic/6.jpg</file>
+        <file>Pic/7.jpg</file>
+        <file>Pic/8.jpg</file>
+        <file>Pic/9.jpg</file>
+        <file>Pic/10.jpg</file>
+        <file>Pic/11.jpg</file>
+        <file>Pic/12.jpg</file>
+        <file>Icon/20.png</file>
+        <file>Pic/13.png</file>
+        <file>Pic/14.png</file>
+        <file>Pic/15.png</file>
+        <file>Pic/16.png</file>
+        <file>Pic/17.png</file>
+        <file>Pic/18.png</file>
+        <file>Pic/19.png</file>
+        <file>Pic/20.png</file>
+        <file>Pic/21.png</file>
+        <file>Pic/22.png</file>
+        <file>Pic/23.png</file>
+        <file>Pic/24.png</file>
+        <file>Icon/21.png</file>
+        <file>Icon/22.png</file>
+        <file>Icon/23.png</file>
+        <file>Icon/24.png</file>
+        <file>Pic/25.png</file>
+        <file>Icon/25.png</file>
+        <file>Icon/26.png</file>
+        <file>Icon/27.png</file>
+        <file>Icon/28.png</file>
+        <file>Icon/29.png</file>
+        <file>Icon/30.png</file>
+        <file>Icon/31.png</file>
+        <file>Icon/32.png</file>
+        <file>Icon/33.png</file>
+        <file>Icon/34.png</file>
+    </qresource>
+    <qresource prefix="/Method">
+        <file>ButtonHover.qml</file>
+        <file>SelectBox.qml</file>
+        <file>ChoseButton.qml</file>
+    </qresource>
+    <qresource prefix="/LeftPage">
+        <file>LeftPage.qml</file>
+    </qresource>
+    <qresource prefix="/RightPage">
+        <file>RightPage.qml</file>
+        <file>RightTopTitle.qml</file>
+        <file>StackPage/StackSetting.qml</file>
+        <file>StackPage/MusicShow.qml</file>
+        <file>StackPage/SettingSections/AccountSec.qml</file>
+        <file>StackPage/SettingSections/FontChoseBox.qml</file>
+        <file>StackPage/SettingSections/SettingDivide.qml</file>
+        <file>StackPage/SettingSections/NormalSetting.qml</file>
+        <file>StackPage/SettingSections/SystemSetting.qml</file>
+        <file>StackPage/SettingSections/QuicktxtField.qml</file>
+        <file>StackPage/SettingSections/QuickButton.qml</file>
+        <file>StackPage/SettingSections/Foldersec.qml</file>
+        <file>StackPage/SettingSections/MusicDownLoad.qml</file>
+        <file>StackPage/SettingSections/ChangeColor.qml</file>
+        <file>StackPage/SettingSections/FontColor.qml</file>
+        <file>StackPage/SelectPage/WellSelect.qml</file>
+        <file>StackPage/SelectPage/MusicList.qml</file>
+        <file>StackPage/SelectPage/RollPicture.qml</file>
+        <file>StackPage/SelectPage/NewMusic.qml</file>
+        <file>StackPage/MyMusic.qml</file>
+    </qresource>
+    <qresource prefix="/BottomSection">
+        <file>BottomSection.qml</file>
+    </qresource>
+    <qresource prefix="/MainWindow">
+        <file>LisMusic.qml</file>
+    </qresource>
+    <qresource prefix="/Basictop">
+        <file>Basictop.qml</file>
+        <file>Usertop.qml</file>
+        <file>Searchtop.qml</file>
+        <file>Loginpop.qml</file>
+        <file>OtherLoginpop.qml</file>
+    </qresource>
+    <qresource prefix="/DataBase">
+        <file>SearchData.qml</file>
+        <file>FavorData.qml</file>
+        <file>HotData.qml</file>
+        <file>HotIdData.qml</file>
+        <file>OtherData.qml</file>
+        <file>OtherIdData.qml</file>
+        <file>AccountData.qml</file>
+        <file>QuickData.qml</file>
+    </qresource>
+    <qresource prefix="/Config">
+        <file>Config.qml</file>
+        <file>qmldir</file>
+    </qresource>
+    <qresource prefix="/PopPage">
+        <file>PopPage/Popmusic.qml</file>
+    </qresource>
+</RCC>

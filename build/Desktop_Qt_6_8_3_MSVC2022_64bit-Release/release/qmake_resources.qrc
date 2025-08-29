@@ -1,0 +1,5 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/LisMusic">
+<file alias="main.qml">C:/Users/20399/Documents/QtObject/LisMusic/main.qml</file>
+</qresource>
+</RCC>

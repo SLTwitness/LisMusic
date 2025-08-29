@@ -1,0 +1,136 @@
+<?xml version="1.0"?>
+<RCC>
+    <qresource prefix="/Icon"/>
+    <qresource prefix="/Res"/>
+    <qresource prefix="/Resrc">
+        <file alias="Icon/1.png">../../Icon/1.png</file>
+        <file alias="Icon/2.png">../../Icon/2.png</file>
+        <file alias="Icon/3.png">../../Icon/3.png</file>
+        <file alias="Icon/4.png">../../Icon/4.png</file>
+        <file alias="Icon/5.png">../../Icon/5.png</file>
+        <file alias="Icon/6.png">../../Icon/6.png</file>
+        <file alias="Icon/7.png">../../Icon/7.png</file>
+        <file alias="Icon/8.png">../../Icon/8.png</file>
+        <file alias="Icon/9.png">../../Icon/9.png</file>
+        <file alias="Icon/10.png">../../Icon/10.png</file>
+        <file alias="Icon/11.png">../../Icon/11.png</file>
+        <file alias="Icon/12.png">../../Icon/12.png</file>
+        <file alias="Icon/13.png">../../Icon/13.png</file>
+        <file alias="Icon/14.png">../../Icon/14.png</file>
+        <file alias="log/2.png">../../log/2.png</file>
+        <file alias="logo/2.jpg">../../logo/2.jpg</file>
+        <file alias="logo/3.jpg">../../logo/3.jpg</file>
+        <file alias="log/1.png">../../log/1.png</file>
+        <file alias="logo/1.png">../../logo/1.png</file>
+        <file alias="logo/4.png">../../logo/4.png</file>
+        <file alias="logo/5.png">../../logo/5.png</file>
+        <file alias="logo/6.png">../../logo/6.png</file>
+        <file alias="logo/7.png">../../logo/7.png</file>
+        <file alias="logo/8.png">../../logo/8.png</file>
+        <file alias="Icon/15.png">../../Icon/15.png</file>
+        <file alias="Icon/16.png">../../Icon/16.png</file>
+        <file alias="Icon/17.png">../../Icon/17.png</file>
+        <file alias="Icon/18.png">../../Icon/18.png</file>
+        <file alias="Icon/19.png">../../Icon/19.png</file>
+        <file alias="Pic/1.jpg">../../Pic/1.jpg</file>
+        <file alias="Pic/2.jpg">../../Pic/2.jpg</file>
+        <file alias="Pic/3.jpg">../../Pic/3.jpg</file>
+        <file alias="Pic/4.jpg">../../Pic/4.jpg</file>
+        <file alias="Pic/5.jpg">../../Pic/5.jpg</file>
+        <file alias="Pic/6.jpg">../../Pic/6.jpg</file>
+        <file alias="Pic/7.jpg">../../Pic/7.jpg</file>
+        <file alias="Pic/8.jpg">../../Pic/8.jpg</file>
+        <file alias="Pic/9.jpg">../../Pic/9.jpg</file>
+        <file alias="Pic/10.jpg">../../Pic/10.jpg</file>
+        <file alias="Pic/11.jpg">../../Pic/11.jpg</file>
+        <file alias="Pic/12.jpg">../../Pic/12.jpg</file>
+        <file alias="Icon/20.png">../../Icon/20.png</file>
+        <file alias="Pic/13.png">../../Pic/13.png</file>
+        <file alias="Pic/14.png">../../Pic/14.png</file>
+        <file alias="Pic/15.png">../../Pic/15.png</file>
+        <file alias="Pic/16.png">../../Pic/16.png</file>
+        <file alias="Pic/17.png">../../Pic/17.png</file>
+        <file alias="Pic/18.png">../../Pic/18.png</file>
+        <file alias="Pic/19.png">../../Pic/19.png</file>
+        <file alias="Pic/20.png">../../Pic/20.png</file>
+        <file alias="Pic/21.png">../../Pic/21.png</file>
+        <file alias="Pic/22.png">../../Pic/22.png</file>
+        <file alias="Pic/23.png">../../Pic/23.png</file>
+        <file alias="Pic/24.png">../../Pic/24.png</file>
+        <file alias="Icon/21.png">../../Icon/21.png</file>
+        <file alias="Icon/22.png">../../Icon/22.png</file>
+        <file alias="Icon/23.png">../../Icon/23.png</file>
+        <file alias="Icon/24.png">../../Icon/24.png</file>
+        <file alias="Pic/25.png">../../Pic/25.png</file>
+        <file alias="Icon/25.png">../../Icon/25.png</file>
+        <file alias="Icon/26.png">../../Icon/26.png</file>
+        <file alias="Icon/27.png">../../Icon/27.png</file>
+        <file alias="Icon/28.png">../../Icon/28.png</file>
+        <file alias="Icon/29.png">../../Icon/29.png</file>
+        <file alias="Icon/30.png">../../Icon/30.png</file>
+        <file alias="Icon/31.png">../../Icon/31.png</file>
+        <file alias="Icon/32.png">../../Icon/32.png</file>
+        <file alias="Icon/33.png">../../Icon/33.png</file>
+        <file alias="Icon/34.png">../../Icon/34.png</file>
+    </qresource>
+    <qresource prefix="/Method">
+        <file alias="ButtonHover.qml">../../ButtonHover.qml</file>
+        <file alias="SelectBox.qml">../../SelectBox.qml</file>
+        <file alias="ChoseButton.qml">../../ChoseButton.qml</file>
+    </qresource>
+    <qresource prefix="/LeftPage">
+        <file alias="LeftPage.qml">../../LeftPage.qml</file>
+    </qresource>
+    <qresource prefix="/RightPage">
+        <file alias="RightPage.qml">../../RightPage.qml</file>
+        <file alias="RightTopTitle.qml">../../RightTopTitle.qml</file>
+        <file alias="StackPage/StackSetting.qml">../../StackPage/StackSetting.qml</file>
+        <file alias="StackPage/MusicShow.qml">../../StackPage/MusicShow.qml</file>
+        <file alias="StackPage/SettingSections/AccountSec.qml">../../StackPage/SettingSections/AccountSec.qml</file>
+        <file alias="StackPage/SettingSections/FontChoseBox.qml">../../StackPage/SettingSections/FontChoseBox.qml</file>
+        <file alias="StackPage/SettingSections/SettingDivide.qml">../../StackPage/SettingSections/SettingDivide.qml</file>
+        <file alias="StackPage/SettingSections/NormalSetting.qml">../../StackPage/SettingSections/NormalSetting.qml</file>
+        <file alias="StackPage/SettingSections/SystemSetting.qml">../../StackPage/SettingSections/SystemSetting.qml</file>
+        <file alias="StackPage/SettingSections/QuicktxtField.qml">../../StackPage/SettingSections/QuicktxtField.qml</file>
+        <file alias="StackPage/SettingSections/QuickButton.qml">../../StackPage/SettingSections/QuickButton.qml</file>
+        <file alias="StackPage/SettingSections/Foldersec.qml">../../StackPage/SettingSections/Foldersec.qml</file>
+        <file alias="StackPage/SettingSections/MusicDownLoad.qml">../../StackPage/SettingSections/MusicDownLoad.qml</file>
+        <file alias="StackPage/SettingSections/ChangeColor.qml">../../StackPage/SettingSections/ChangeColor.qml</file>
+        <file alias="StackPage/SettingSections/FontColor.qml">../../StackPage/SettingSections/FontColor.qml</file>
+        <file alias="StackPage/SelectPage/WellSelect.qml">../../StackPage/SelectPage/WellSelect.qml</file>
+        <file alias="StackPage/SelectPage/MusicList.qml">../../StackPage/SelectPage/MusicList.qml</file>
+        <file alias="StackPage/SelectPage/RollPicture.qml">../../StackPage/SelectPage/RollPicture.qml</file>
+        <file alias="StackPage/SelectPage/NewMusic.qml">../../StackPage/SelectPage/NewMusic.qml</file>
+        <file alias="StackPage/MyMusic.qml">../../StackPage/MyMusic.qml</file>
+    </qresource>
+    <qresource prefix="/BottomSection">
+        <file alias="BottomSection.qml">../../BottomSection.qml</file>
+    </qresource>
+    <qresource prefix="/MainWindow">
+        <file alias="LisMusic.qml">../../LisMusic.qml</file>
+    </qresource>
+    <qresource prefix="/Basictop">
+        <file alias="Basictop.qml">../../Basictop.qml</file>
+        <file alias="Usertop.qml">../../Usertop.qml</file>
+        <file alias="Searchtop.qml">../../Searchtop.qml</file>
+        <file alias="Loginpop.qml">../../Loginpop.qml</file>
+        <file alias="OtherLoginpop.qml">../../OtherLoginpop.qml</file>
+    </qresource>
+    <qresource prefix="/DataBase">
+        <file alias="SearchData.qml">../../SearchData.qml</file>
+        <file alias="FavorData.qml">../../FavorData.qml</file>
+        <file alias="HotData.qml">../../HotData.qml</file>
+        <file alias="HotIdData.qml">../../HotIdData.qml</file>
+        <file alias="OtherData.qml">../../OtherData.qml</file>
+        <file alias="OtherIdData.qml">../../OtherIdData.qml</file>
+        <file alias="AccountData.qml">../../AccountData.qml</file>
+        <file alias="QuickData.qml">../../QuickData.qml</file>
+    </qresource>
+    <qresource prefix="/Config">
+        <file alias="Config.qml">../../Config.qml</file>
+        <file alias="qmldir">../../qmldir</file>
+    </qresource>
+    <qresource prefix="/PopPage">
+        <file alias="PopPage/Popmusic.qml">../../PopPage/Popmusic.qml</file>
+    </qresource>
+</RCC>

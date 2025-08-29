@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<RCC version="1.0">
+    <qresource prefix="/LisMusic">
+        <file alias="main.qml">../../main.qml</file>
+    </qresource>
+</RCC>
